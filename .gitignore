@@ -1,0 +1,28 @@
+# Unreal Engine generated folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# IDE / user files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temp build artifacts
+*.pdb
+*.obj
+*.dep.json
+*.sarif

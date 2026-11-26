@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Drag Chain",
+	"Description": "工业拖链（电缆链）动画 Actor：样条路径 + 链长守恒运动学，头/中/尾三段模型，Sequencer 参数驱动，双向挂接（固定父级 / 带动对象 + 偏移）",
+	"Category": "Animation",
+	"CreatedBy": "Tim",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DragChain",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

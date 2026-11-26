@@ -1,0 +1,13 @@
+# UE binary assets — never diff/merge as text
+*.uasset binary
+*.umap binary
+*.ubulk binary
+*.uexp binary
+*.upk binary
+
+# Source
+*.h   text eol=lf
+*.cpp text eol=lf
+*.cs  text eol=lf
+*.ini text eol=lf
+*.md  text eol=lf
