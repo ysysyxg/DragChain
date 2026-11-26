@@ -6,6 +6,16 @@
 
 ![UE](.github/assets/badge-ue.svg) ![Type](.github/assets/badge-type.svg)
 
+## 预览
+
+**链长守恒**：向上拖动带动对象，弯弧半径实时跟随，链节不拉伸。
+
+![拖链整体形态](docs/images/overview.jpg)
+
+**编辑器工作流**：挂接区（固定父级 / 带动对象）与 Sequencer 属性轨道。
+
+![挂接设置与 Sequencer 轨道](docs/images/editor-attach.jpg)
+
 ## 特性
 
 - **链长守恒运动学**：弯心位置按 `x_b = (L + X - PI*R) / 2` 解析求解，拖动带动对象时链条自然折叠/展开，不出现拉伸变形。
@@ -102,6 +112,7 @@ DragChain/
 ├── DragChain.uplugin
 ├── Config/FilterPlugin.ini
 ├── .github/assets/          # README 自托管徽章
+├── docs/images/             # README 截图
 ├── Content/Models/          # HeadLink / MidLink / TailLink 示例模型
 └── Source/DragChain/
     ├── DragChain.Build.cs
