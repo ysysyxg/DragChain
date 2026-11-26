@@ -1,3 +1,6 @@
+// Copyright (c) 2026 ysysyxg (https://github.com/ysysyxg)
+// SPDX-License-Identifier: MIT
+//
 // DragChainActor.h — 工业拖链（电缆链）动画 Actor
 // 样条路径 + 链长守恒运动学：弯心 x_b = (L + X - PI*R) / 2
 // 支持 头 / 中间节 / 尾 三段独立模型；参数均可由 Sequencer 属性轨道驱动。

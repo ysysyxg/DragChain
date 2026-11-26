@@ -1,3 +1,6 @@
+// Copyright (c) 2026 ysysyxg (https://github.com/ysysyxg)
+// SPDX-License-Identifier: MIT
+//
 // DragChainActor.cpp — 工业拖链（电缆链）动画实现
 
 #include "DragChainActor.h"

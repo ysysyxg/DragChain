@@ -1,4 +1,5 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright (c) 2026 ysysyxg (https://github.com/ysysyxg)
+// SPDX-License-Identifier: MIT
 
 using UnrealBuildTool;
 

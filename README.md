@@ -109,6 +109,17 @@ DragChain/
     └── Public/DragChainActor.h
 ```
 
-## 许可
+## 许可与版权
 
-未声明开源许可。使用前请与作者确认。
+- **版权所有者**：ysysyxg（GitHub 账号 <https://github.com/ysysyxg>）
+- **许可协议**：[MIT License](LICENSE)
+- **Copyright (c) 2026 ysysyxg**
+
+本插件的全部源码、模型资产与文档的著作权归 ysysyxg 所有。在 MIT 许可范围内可自由使用、修改、分发与商用，但必须在所有副本或重要部分中保留上述版权声明与许可声明。
+
+二次分发、衍生作品或商业项目中请保留：
+
+```
+Copyright (c) 2026 ysysyxg (https://github.com/ysysyxg)
+```
+
