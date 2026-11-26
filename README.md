@@ -4,7 +4,7 @@
 
 样条路径 + 链长守恒运动学驱动，头/中/尾三段模型可选，所有关键参数均可由 Sequencer 属性轨道 K 帧驱动，不依赖物理仿真。
 
-![Category](https://img.shields.io/badge/UE-5.6%20%7C%205.8-blue) ![Type](https://img.shields.io/badge/type-Runtime%20Plugin-lightgrey)
+![UE](.github/assets/badge-ue.svg) ![Type](.github/assets/badge-type.svg)
 
 ## 特性
 
@@ -101,6 +101,7 @@
 DragChain/
 ├── DragChain.uplugin
 ├── Config/FilterPlugin.ini
+├── .github/assets/          # README 自托管徽章
 ├── Content/Models/          # HeadLink / MidLink / TailLink 示例模型
 └── Source/DragChain/
     ├── DragChain.Build.cs

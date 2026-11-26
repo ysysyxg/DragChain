@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="20" role="img" aria-label="type: Runtime Plugin">
+  <title>type: Runtime Plugin</title>
+  <rect width="138" height="20" rx="3" fill="#3d444d"/>
+  <rect x="42" width="96" height="20" fill="#57606a"/>
+  <rect x="42" width="6" height="20" fill="#57606a"/>
+  <rect x="130" width="8" height="20" rx="3" fill="#57606a"/>
+  <g fill="#ffffff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <text x="21" y="14">TYPE</text>
+    <text x="90" y="14">Runtime Plugin</text>
+  </g>
+</svg>
